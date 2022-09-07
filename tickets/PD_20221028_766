@@ -1,0 +1,11 @@
+PNR          : PD_20221028_766
+Train No     : 1001
+Train Name   : MAGADH EXPRESS
+From         : PATNA
+To           : DELHI
+Travel Date  : 2022-10-28
+
+Passengers:
+Name			Age			Gender			Fare
+nikhil			22			M			1500.0
+Total Price: 1500.0
